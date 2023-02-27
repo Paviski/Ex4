@@ -1,0 +1,56 @@
+<html><head>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <style>
+ body {text-align: center;background-color: orange;}
+ h1 {color:skyblue;}
+ p {font-weight: bold;}
+ </style>
+</head>
+<body>
+ <h1>TOP 4 ATHLETES IN THE WORLD</h1>
+ <table class="table table-condensed table-hover">
+  <tbody><tr>
+   <td><img src="https://www.teamusa.org/-/media/TeamUSA/Swimming/Phelps_Michael/2016/phelps_michael_1216sicover_300x400.jpg?la=en&hash=3F3905EE96F5CC57CADCA87C26501D418788210D" class="square" width="500" length="500"></td>
+   <td><img src="https://i.insider.com/639f2b8bb5600000185b3925?width=1000&format=jpeg&auto=webp" class="square" width="500" length="500"></td>
+   <td><img src="https://www.meme-arsenal.com/memes/21799caf9fae355e20b7aeb386de6e68.jpg" class="square" width="500" length="500"></td>
+   <td>
+    <img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-1322028686.jpg?resize=1200:*" class="square" width="500" length="500"></td><td>
+  </tr>
+  <tr>
+   <td>NET WORTH: 100 million USD</td>
+   <td>NET WORTH: 620 million USD</td>
+   <td>NET WORTH: 1 billion USD</td>
+   <td>NET WORTH: 550 million USD</td>
+  </tr>
+  <tr>
+   <td>So many Golds</td>
+   <td>Little Boy from Rosario</td>
+   <td>Beat Kareem</td>
+   <td>Goat of Tennis</td>
+  </tr>
+ </tbody></table>
+
+  <div class="container">
+        <table>
+
+        </table>
+        <hr>
+
+        <form class="form-group">
+            Name and Fav Athelete: <input type="text" name="name" class="form-control">
+             Fav Sport: <input type="text" name="sport" class="form-control">
+            <input type="submit" value="SUBMIT" class="btn btn-dark btn-block">
+
+ <nav class="nav bar fixed-top navbar-expand-lg navbar-light bg-light">
+   <a class="navbar-brand text-light">TOP ATHLETES</a>
+   <ul class="navbar-nav">
+       <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
+       <li class="nav-item"><a href="#" class="nav-link">About us</a></li>
+       <li class="nav-item"><a href="#" class="nav-link">Feedback</a></li>
+   </ul>
+ </nav>
+</form>
+</div>
+</body>
+</html>
